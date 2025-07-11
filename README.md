@@ -17,7 +17,7 @@
 
 
 
-## 🦙 Tina CMS
+
 
 By default, this template comes pre-configured with Tina CMS.
 
@@ -27,7 +27,7 @@ If you decide to use Tina, it's not necessary to add any properties to the Markd
 
 Example:
 
-https://github.com/danielcgilibert/blog-template/assets/44746462/51ae324c-d383-40be-9b16-db159d1af15d
+
 
 The documentation for Tina CMS can be found [here](https://tina.io/docs/)
 
